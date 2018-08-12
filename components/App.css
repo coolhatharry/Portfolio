@@ -7,7 +7,7 @@
 }
 
 .main {
-  background-image: url("../img/black-white-mountain.jpg");
+  background-image: url("../static/images/black-white-mountain.jpg");
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
